@@ -1,0 +1,17 @@
+{
+  "name": "pascaltriangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Triangle.js",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node out/Triangle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
